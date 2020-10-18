@@ -1,0 +1,22 @@
+{
+  "name": "backup-wpp",
+  "version": "0.0.1",
+  "description": "Backup chats whatsapp",
+  "main": "app.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "keywords": [
+    "backup",
+    "whatsapp"
+  ],
+  "author": "Gabriel Laranjeira (TecCria)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "puppeteer": "^5.2.1"
+  }
+}
